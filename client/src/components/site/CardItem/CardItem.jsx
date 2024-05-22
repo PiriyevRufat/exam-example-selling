@@ -17,7 +17,7 @@ const CardItem = ({item}) => {
       <p>{item.price}.00$</p>
       <div className='functional-btn'>
       <button onClick={() => addToBasket(item)} className='cart-btn'>CART</button>
-      <button className='view-btn' onClick={() => navigate(`${item._id}`)}>VIEW</button><br />
+      <button className='view-btn'><Link to={`details/${item._id}`}>VIEW</Link></button><br />
       </div>
       </div>
     </div>
