@@ -1,0 +1,26 @@
+.view-btn{
+    color: black;
+    margin-right: 40px;
+    border: 2px solid black;
+    padding: 5px 20px;
+}
+.cart-btn{
+    background-color: black;
+    color: #fff;
+    padding: 5px 20px;
+    margin-right: 15px;
+}
+.cart-btn:hover{
+    background-color: #fff;
+    color: black;
+}
+.view-btn:hover{
+    background-color: black;
+    color: #fff;
+}
+.my-card-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}

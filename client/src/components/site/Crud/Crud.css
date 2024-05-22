@@ -1,0 +1,13 @@
+.crud-subtitle{
+    font-size: 13px;
+    color: #adb5bd;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.crud{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,35 @@
+.my-footer{
+    padding: 8em 0;
+}
+.about-footer h2{
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.quick-footer ul li{
+    margin-bottom: 10px;
+}
+.quick-footer a{
+    color: #999999;
+}
+.quick-footer h2{
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.about-footer p{
+    color: #737373;
+}
+.socials-footer ul{
+    display: flex;
+}
+.socials-footer ul li{
+    margin-right: 15px;
+}
+.footer-card h2{
+    font-size: 16px;
+    color: #000;
+    font-weight: 900;
+}

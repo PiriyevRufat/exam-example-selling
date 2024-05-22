@@ -1,0 +1,41 @@
+.leader-subtitle{
+    font-size: 13px;
+    color: #adb5bd;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.leader-sect{
+    margin-top: 100px;
+}
+.leader-card img{
+    width: 75%;
+    margin-bottom: 1rem !important;
+}
+.leader-card{
+    text-align: center;
+}
+.leader-card ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.leader-card h3{
+    font-size: 18px;
+    font-family: serif;
+}
+.leader-ul  li a{
+    color: #fff;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #808080;
+    position: relative;
+    margin-right: 20px;
+}
+.leader-ul a svg{
+    position: absolute;
+    top: 20%;
+    left: 29%;
+}
